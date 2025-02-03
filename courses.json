@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Курс по машинному обучению",
+        "description": "Основы машинного обучения и глубокого обучения.",
+        "url": "https://karpov.courses/ml"
+    },
+    {
+        "title": "Курс по анализу данных",
+        "description": "Методы и инструменты для анализа данных.",
+        "url": "https://karpov.courses/data-analysis"
+    },
+    {
+        "title": "Курс по программированию на Python",
+        "description": "Основы программирования на языке Python.",
+        "url": "https://karpov.courses/python"
+    }
+]
